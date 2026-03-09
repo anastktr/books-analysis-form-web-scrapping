@@ -9,7 +9,7 @@ Scraping → Raw Data → Data Cleaning → MySQL Database → Analysis → Dash
   
   
 Project Structure  
-books-etl-project/  
+books-analysis-from-web-scraping/  
 │  
 ├── data/   
 │ ├── raw/   
