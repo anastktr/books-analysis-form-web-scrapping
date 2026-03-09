@@ -1,4 +1,4 @@
-# books-analysis-form-web-scrapping
+# books-analysis-form-web-scraping
 
 Project Overview  
 This project builds a small data pipeline that collects book data from the web, cleans the dataset, stores it in a database, and generates insights through dashboards.  
