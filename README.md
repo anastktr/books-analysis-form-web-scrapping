@@ -27,7 +27,7 @@ books-analysis-from-web-scraping/
 │ └── eda.py   
 │  
 ├── dashboards/   
-│ └── dashboards.pbix   
+│ └── dashboard.pbix   
 │  
 ├── requirements.txt   
 ├── .gitignore   
