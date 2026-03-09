@@ -62,4 +62,4 @@ DB_HOST=localhost
 DB_NAME=your_db  
   
   
-Change the paths in order to tun it!  
+Change the paths in order to run it!  
